@@ -1,0 +1,31 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  color: rgb(8, 5, 5);
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  font-size: 12px;
+
+  background-repeat: repeat;
+  background-size: 100%;
+  background-image: url("https://img.myloview.es/vinilos/grid-paper-abstract-striped-background-with-color-horizontal-lines-geometric-pattern-for-school-wallpaper-textures-notebook-lined-paper-blank-isolated-on-transparent-background-700-263725489.jpg");
+}
+
+.App-image {
+  max-width: 200px;
+  display: block;
+  margin: 30px auto;
+}
+
+.App footer {
+  font-size: 11px;
+  max-width: 80%;
+  display: block;
+  padding: 15px;
+  margin: auto;
+}
+
+a {
+  color: #070505;
+}
